@@ -8,4 +8,4 @@ description: Trae el ticket de mayor prioridad asignado al usuario logeado en Ji
 2. Resume sus criterios de aceptación.
 3. Entra en plan mode y propone cómo implementarlo (sigue las convenciones de AGENTS.md/CLAUDE.md si existen).
 4. En cuanto el usuario apruebe el plan: mueve el ticket a "En curso".
-5. Al terminar (con el PR ya creado siguiendo las reglas de CLAUDE.md): mueve el ticket a "En revisión" y deja un comentario en el ticket con el enlace al PR.
+5. Al terminar (con el PR ya creado siguiendo las reglas de AGENTS.md): mueve el ticket a "En revisión" y deja un comentario en el ticket con el enlace al PR.
